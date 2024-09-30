@@ -93,3 +93,47 @@ function removeObj(){
 
 console.log(addElement())
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// function sortArray(numbers) {
+//     // Ascending order
+//     const ascending = [...numbers].sort((a, b) => a - b);
+  
+//     // Descending order
+//     const descending = [...numbers].sort((a, b) => b - a);
+  
+//     return { ascending, descending };
+//   }
+  
+//   // Example 1
+//   const numbers1 = [5, 2, 9, 1, 7];
+//   const sortedNumbers1 = sortArray(numbers1);
+//   console.log("Ascending order:", sortedNumbers1.ascending);
+//   console.log("Descending order:", sortedNumbers1.descending);
+  
